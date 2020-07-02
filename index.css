@@ -165,7 +165,11 @@ width: 200px;
     width: 100%;
   }
   .spacer{
-    height: 0;
+    margin-top: 2em;
+    height: 75px;
+    width: 100%;
+    display: flex;
+    text-align: left;
   }
   .jet {
     display: none;
@@ -256,4 +260,8 @@ width: 200px;
     margin: 0;
     margin-top: 2em;
   }
+.card-img {
+  width: 100%;
+}
+
 }
